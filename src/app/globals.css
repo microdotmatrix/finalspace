@@ -84,6 +84,10 @@
   --font-serif: var(--serif-family);
   --font-mono: var(--code-family);
   --font-display: var(--display-family);
+
+  --breakpoint-xxs: 20rem;
+  --breakpoint-xs: 30rem;
+  --breakpoint-3xl: 116rem;
 }
 
 .light,
